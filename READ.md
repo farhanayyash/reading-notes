@@ -27,14 +27,14 @@
 
 # Basic writing and formatting syntax
 ### we have :
-1- heading
-2-styling text
-3-Quoting text
-4-Quoting code
-5-Links, Section links & Relative links
-6-Lists, Nested Lists & Task lists
-7-Mentioning people and teams
-8-Using emoji
-9-Paragraphs
-10-Ignoring Markdown formatting by adding (\ )
-11-Referencing external resources, issues, and pull requests
+1. heading
+2. styling text
+3. Quoting text
+4. Quoting code
+5. Links, Section links & Relative links
+6. Lists, Nested Lists & Task lists
+7. Mentioning people and teams
+8. Using emoji
+9. Paragraphs
+10. Ignoring Markdown formatting by adding (\ )
+11. Referencing external resources, issues, and pull requests
