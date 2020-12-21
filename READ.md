@@ -38,3 +38,4 @@
 9. Paragraphs
 10. Ignoring Markdown formatting by adding (\ )
 11. Referencing external resources, issues, and pull requests
+##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash). 
