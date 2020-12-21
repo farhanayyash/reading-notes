@@ -10,4 +10,4 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 2. Try different learning tactics.
 3. Celebrate growth with others.
 
-##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash) :+1:.
+##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash) :wink:.
