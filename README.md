@@ -10,13 +10,11 @@
     <td>Growth</td>
     <td>12/21/2020</td>
     <td><a href="https://farhanayyash.github.io/reading-notes/Growth">here</a></td>
-    
-    
   </tr>
   <tr>
     <td>Markdown</td>
     <td>12/21/2020</td>
-    <td><a href="https://farhanayyash.github.io/reading-notes/READ">here</a></td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/READ" >here</a></td>
     
   </tr>
   <tr>
@@ -24,5 +22,11 @@
     <td>12/21/2020</td>
     <td><a href="https://farhanayyash.github.io/reading-notes/Revisions">here</a></td>
   </tr>
+  <tr>
+    <td>READ4</td>
+    <td>12/22/2020</td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/read4">here</a></td>
+  </tr>
+  <tr>
 </table>
 ##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash). 
