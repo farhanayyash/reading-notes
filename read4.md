@@ -11,6 +11,17 @@
 ## All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
 # How the Web Works?
 ## When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
+# Who is the Site For 
+## Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
+# Why People Visit YOUR Website
+## Now that you know who your visitors are, you need to consider why they are coming. While some people will simply chance across your website, most will visit for a specific reason.
+
+# What Your Visitors are Trying to Achieve
+## It is unlikely that you will be able to list every reason why someone visits your site but you are looking for key tasks and motivations. This information can help guide your site designs.
+
+# What Information Your Visitors Need
+## You know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
+
 # Structure  
 ## In all kinds of documents, the structure is very important in helping readers to understand the messages you are trying to convey and to navigate around the document. So, in order to learn how to write web pages, it is very important to understand how to structure documents. HTML Uses Elements to Describe the Structure of Pages. Let's look closer at the code from the last page. There are several different elements. Each element has an opening tag and a closing tag.
 
