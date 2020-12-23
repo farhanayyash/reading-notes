@@ -1,5 +1,6 @@
 # Farhan Ayyash, I'm a Civil engineer, 23 years old. I'm a hard worker and I can work under pressure.
 ## Table of contents
+
 <table>
   <tr>
     <th>Name</th>
@@ -27,7 +28,6 @@
     <td>12/22/2020</td>
     <td><a href="https://farhanayyash.github.io/reading-notes/read4">here</a></td>
   </tr>
-  <tr>
 </table>
 
 ##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash). 
