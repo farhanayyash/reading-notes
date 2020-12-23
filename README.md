@@ -28,6 +28,11 @@
     <td>12/22/2020</td>
     <td><a href="https://farhanayyash.github.io/reading-notes/read4">here</a></td>
   </tr>
+  <tr>
+    <td>READ06A</td>
+    <td>12/23/2020</td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/read06a">here</a></td>
+  </tr>
 </table>
 
 ##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash). 
