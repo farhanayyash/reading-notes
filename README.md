@@ -40,8 +40,13 @@
   </tr>
   <tr>
     <td>READ07</td>
-    <td>12/23/2020</td>
+    <td>12/24/2020</td>
     <td><a href="https://farhanayyash.github.io/reading-notes/read07">here</a></td>
+  </tr>
+   <tr>
+    <td>READ08</td>
+    <td>12/24/2020</td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/read08">here</a></td>
   </tr>
 </table>
 
