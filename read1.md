@@ -8,6 +8,8 @@
 * The Communication Competency
 * The Teamwork Competency
 * The Results Competency
+
+
 # My strengths
 ## Adaptability
 ### Ability to cope with change positively and constructively
