@@ -54,6 +54,11 @@
     <td>12/27/2020</td>
     <td><a href="https://farhanayyash.github.io/reading-notes/read5">here</a></td>
   </tr>
+  <tr>
+    <td>reading201-1</td>
+    <td>01/03/2021</td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/reading201-1">here</a></td>
+  </tr>
 </table>
 
 ##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash). 
