@@ -76,3 +76,25 @@
 # What Information Your Visitors Need
 ## You know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
 
+# Javascript
+
+## How JavaScript makes pages more attractive:
+* Access content
+* Modify content 
+* Add program rules
+* React to events
+
+## Examples of using Javascript:
+* Slideshows
+* Forms
+* Reload part of the page
+* Filtering data
+
+## What is a script:
+### A script is a series of instructions that a computer can follow to achieve a goal.
+
+## How to write a script:
+### To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+
+### To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+
