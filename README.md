@@ -109,6 +109,11 @@
     <td>01/17/2021</td>
     <td><a href="https://farhanayyash.github.io/reading-notes/reading201-12">here</a></td>
   </tr>
+  <tr>
+    <td>reading201-13</td>
+    <td>01/18/2021</td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/reading201-13s">here</a></td>
+  </tr>
 </table>
 
 ##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash). 
