@@ -112,7 +112,7 @@
   <tr>
     <td>reading201-13</td>
     <td>01/18/2021</td>
-    <td><a href="https://farhanayyash.github.io/reading-notes/reading201-13s">here</a></td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/reading201-13">here</a></td>
   </tr>
 </table>
 
