@@ -114,6 +114,16 @@
     <td>01/18/2021</td>
     <td><a href="https://farhanayyash.github.io/reading-notes/reading201-13">here</a></td>
   </tr>
+  <tr>
+    <td>reading201-14_A</td>
+    <td>01/19/2021</td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/reading201-14a">here</a></td>
+  </tr>
+  <tr>
+    <td>reading201-14_B</td>
+    <td>01/19/2021</td>
+    <td><a href="https://farhanayyash.github.io/reading-notes/reading201-14b">here</a></td>
+  </tr>
 </table>
 
 ##### This site was built by [Farhan Ayyash](https://github.com/farhanayyash). 
